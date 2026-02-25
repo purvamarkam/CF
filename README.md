@@ -65,22 +65,22 @@ The system assists investigators in performing secure and legally compliant fore
 ## 📸 Application Screenshots
 
 ### 💬 Investigator Chat
-![Investigator Chat](screenshots/chat_output.png)
+![Investigator Chat](forensic_assistant/screenshots/chat_output.png)
 
 ---
 
 ### 🔐 SHA256 Hash Generator
-![SHA256 Hash](screenshots/hash_output.png)
+![SHA256 Hash](forensic_assistant/screenshots/hash_output.png)
 
 ---
 
 ### 📊 Log Analysis Tool
-![Log Analysis](screenshots/log_analysis.png)
+![Log Analysis](forensic_assistant/screenshots/log_analysis.png)
 
 ---
 
 ### 📧 Email Header Analyzer
-![Email Header](screenshots/email_analysis.png)
+![Email Header](forensic_assistant/screenshots/email_analysis.png)
 
 ---
 
