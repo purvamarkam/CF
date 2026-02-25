@@ -107,3 +107,10 @@ It integrates:
 ---
 
 ## 📂 Project Structure
+forensic_assistant/
+│
+├── app.py
+├── intent_model.py
+├── knowledge_base.json
+├── requirements.txt
+└── README.md
