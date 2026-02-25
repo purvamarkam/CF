@@ -1,0 +1,23 @@
+{
+  "digital_evidence_collection": {
+    "response": "Follow identification, preservation, collection, documentation, packaging, and transport steps. Always photograph devices before touching them."
+  },
+  "chain_of_custody": {
+    "response": "Chain of custody must include evidence ID, description, date/time collected, collector name, and transfer signatures."
+  },
+  "email_forensics": {
+    "response": "Analyze full email headers including Received fields. Verify SPF, DKIM, and trace originating IP addresses."
+  },
+  "disk_imaging": {
+  "response": "Steps for forensic disk imaging:\n1. Document device condition (on/off state).\n2. Connect hardware write blocker.\n3. Use trusted forensic tool (FTK Imager, EnCase, or dd).\n4. Create bit-by-bit image (not logical copy).\n5. Generate SHA256 and MD5 hashes.\n6. Verify hash values match.\n7. Securely store original device as evidence."
+},
+  "malware_analysis": {
+    "response": "Perform static and dynamic analysis inside an isolated VM. Never analyze malware on your host system."
+  },
+  "log_analysis": {
+    "response": "Look for anomalies such as repeated failed login attempts, suspicious IPs, and unusual timestamps."
+  },
+  "legal_procedure": {
+    "response": "Ensure proper warrants, jurisdiction compliance, and maintain admissibility standards before seizure."
+  }
+}
